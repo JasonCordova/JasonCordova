@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?link=https://www.linkedin.com/in/jason-cordova)]](https://img.shields.io/badge/LinkedIn-%23000?color=rgb(255%2C%200%2C%200)&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjason-cordova%2F
-)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%23000?color=rgb(255%2C%200%2C%200)&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjason-cordova%2F)
+
 
 
 <!--

@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?link=linkedin.com%2Fin%2Fjason-cordova)
+
+
 <!--
 **JasonCordova/JasonCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Nice to meet you, I'm Jason! 👋
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-cordova/)
 
 

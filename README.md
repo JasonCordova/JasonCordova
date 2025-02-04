@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?link=linkedin.com%2Fin%2Fjason-cordova)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjason-cordova)
 
 
 <!--

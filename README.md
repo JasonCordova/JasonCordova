@@ -6,8 +6,6 @@ Hi, my name is Jason Cordova! I'm a senior studying Computer Science at the New 
 
 It's nice to meet you!
 
-## My Skills
-
 
 <!--
 **JasonCordova/JasonCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

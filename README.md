@@ -2,24 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/jason-cordova/)
 [![Handshake](https://img.shields.io/badge/Handshake-cdf687?logo=handshake&logoColor=%23000)](https://app.joinhandshake.com/profiles/nesg7w)
 
-Hi, my name is Jason Cordova. I graduated with a BSc in Computer Science from the New Jersey Institute of Technoloy (NJIT).
+Hi, my name is Jason Cordova! 
 
-I'm an aspiring Software Engineer with a passion for Backend Development and Quality Assurance. I'm currently expanding my skills, contributing to projects, and always excited to learn something new.
+I graduated with a BSc in Computer Science from the New Jersey Institute of Technoloy (NJIT). I'm an aspiring Software Engineer with a passion for Backend Development and Quality Assurance.
 
 Thanks for stopping by, it's nice to meet you!
 
-
-<!--
-**JasonCordova/JasonCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently expanding my skills, contributing to projects, and always excited to learn something new.

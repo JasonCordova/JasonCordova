@@ -6,6 +6,4 @@ Hi, I'm Jason Cordova!
 
 I graduated with a Bachelors in Computer Science from the New Jersey Institute of Technoloy (NJIT), aspiring to be a Software Engineer specializing in Backend Development and Quality Assurance.
 
-Thanks for stopping by, it's nice to meet you!
-
-- 🌱 I'm currently expanding my skills, contributing to projects, and always excited to learn something new.
+Thanks for stopping by!
